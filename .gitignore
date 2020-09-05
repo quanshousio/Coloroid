@@ -1,0 +1,7 @@
+bin
+build
+gmon.out
+*.stats
+Thumbs.db
+.DS_Store
+.vscode
